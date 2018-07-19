@@ -4,7 +4,7 @@
   "description": "",
   "main": "./lib/app.js",
   "bin": {
-    "react-parcel-cli": "lib/app.js"
+    "react-parcel-cli": "bin/app.js"
   },
   "preferGlobal": true,
   "scripts": {
