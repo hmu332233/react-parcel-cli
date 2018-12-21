@@ -1,15 +1,22 @@
 ## react parcel cli
 Create React apps with no build configuration with parcel
 
+<img src="assets/example.gif" width="350">
+
 ### Quick Overview
+```bash
+$ react-parcel-cli new
+$ cd my-app
+$ npm start
+```
 ```bash
 $ react-parcel-cli create my-app
 $ cd my-app
-$ npm install
 $ npm start
 ```
 
 ### Installation
+
 ```
 $ npm install -g react-parcel-cli
 ```
@@ -19,6 +26,17 @@ $ npm install -g react-parcel-cli
 
 
 ### Usage
+
+#### new
+```
+  Usage: new
+
+  Examples:
+
+    $ react-parcel-cli new
+```
+
+#### create
 ```
   Usage: create <name> [options]
 
