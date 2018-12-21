@@ -23,5 +23,6 @@
     "commander": "^2.16.0",
     "enquirer": "^2.1.1"
   },
-  "homepage": "https://github.com/hmu332233/react-parcel-cli#readme"
+  "homepage": "https://github.com/hmu332233/react-parcel-cli#readme",
+  "keywords": ["react", "parcel", "cli"]
 }
